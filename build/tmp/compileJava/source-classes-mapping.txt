@@ -1,2 +1,0 @@
-com/example/thisAndThat/ThisAndThatApplication.java
- com.example.thisAndThat.ThisAndThatApplication
